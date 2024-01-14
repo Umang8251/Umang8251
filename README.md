@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Umang8251/Umang8251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about :
 -->
-### Projects
-1)**Quiz Game: **
+## Projects
+
+1) **Quiz Game:**
 A Quiz Game programmed in C language, designed using various data structures such as Stacks and Priority Queue.It implements the quiz in a fun KBC style,giving the users various lifelines like Double Dip,Elementary Watson and Fifty-Fifty.
 
  ### 
