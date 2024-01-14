@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 ![WhatsApp Image 2024-01-14 at 17 34 18_8b4c7534](https://github.com/Umang8251/Umang8251/assets/119044894/b6953776-4622-4948-9afb-7dbefdbaa282)
 ![image](https://github.com/Umang8251/Umang8251/assets/119044894/078480a8-d246-4f76-96ad-0321ff7822b4)
 ![image](https://github.com/Umang8251/Umang8251/assets/119044894/8e84ee55-7b2f-4fce-98de-cdf71b6834bd)
-![WhatsApp Image 2024-01-14 at 17 35 44_da8bf0ee](https://github.com/Umang8251/Umang8251/assets/119044894/05965359-012a-4cb7-a8b3-4de46ee38a6a)
+![image](https://github.com/Umang8251/Umang8251/assets/119044894/43ec28ca-f7fe-4df2-8efc-35c2f9202f1a)
+
 
 
 ## Projects
