@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ### Projects
 1)Quiz Game: 
- It is a Quiz Game programmed in C language, designed using various data structures such as Stacks and Priority Queue.
+A Quiz Game programmed in C language, designed using various data structures such as Stacks and Priority Queue.It implements the quiz in a fun KBC style,giving the users various lifelines like Double Dip,Elementary Watson and Fifty-Fifty.
 
  ### 
- Feel free to mail me for any issues,suggestions or feedback regarding the projects.
+ Feel free to mail me for any issues,suggestions or feedback regarding my projects/contributions.
