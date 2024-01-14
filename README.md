@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning designing algorithms.
 - 📫 How to reach me: pes2ug22cs638@pesu.pes.edu
 - 😄 Pronouns: She/Her
-- <!--
+ <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about :
