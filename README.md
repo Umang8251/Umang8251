@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -
 -->
 ## About me 🚀
-- 🔭 I’m currently working on Data Structures, MERN Stack and Web Development.
-- 🌱 I’m currently learning designing algorithms.
+- 🔭 I’m currently working on Machine Learning and Generative AI.
+- 🌱 I’m currently learning compiler design.
 - 📫 How to reach me: pes2ug22cs638@pesu.pes.edu
 - 😄 Pronouns: She/Her
  <!--
